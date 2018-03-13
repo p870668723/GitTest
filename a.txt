@@ -1,6 +1,2 @@
 NIHAO
-<<<<<<< HEAD
 hello modified
-=======
-hello modified
->>>>>>> dev
