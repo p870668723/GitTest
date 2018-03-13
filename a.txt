@@ -1,4 +1,4 @@
-nihao
+NIHAO
 <<<<<<< HEAD
 hello modified
 =======
