@@ -1,2 +1,6 @@
 nihao
-hello shijie
+<<<<<<< HEAD
+hello modified
+=======
+hello modified
+>>>>>>> dev
